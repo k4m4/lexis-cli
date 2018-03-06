@@ -1,7 +1,16 @@
-# lexis-cli [![Build Status](https://travis-ci.org/k4m4/lexis.svg?branch=master)](https://travis-ci.org/k4m4/lexis)
+<h1 align="center">
+	<img width="750" src="https://nikolaskama.me/content/images/2018/03/lexis.png" alt="lexis">
+</h1>
 
-> Word counting made easy. Retrieve the number of words in a string.
+<p align="center">
+	Word counting made easy. Retrieve the number of words in a string.
+	<br/><br/>
+	<a href="https://travis-ci.org/k4m4/lexis">
+		<img src="https://travis-ci.org/k4m4/lexis.svg?branch=master" align=center/>
+	</a><br/>
+</p>
 
+---
 
 ## Install
 
