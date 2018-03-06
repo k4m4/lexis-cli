@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="750" src="https://nikolaskama.me/content/images/2018/03/lexis.png" alt="lexis">
+	<img width="750" src="https://nikolaskama.me/content/images/2018/03/lexis-1.png" alt="lexis">
 </h1>
 
 <p align="center">
