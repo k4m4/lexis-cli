@@ -35,6 +35,11 @@
 ```
 
 
+## Demo
+
+![Lexis Demo](https://nikolaskama.me/content/images/2018/03/lexis.gif)
+
+
 ## Related
 
 - [lexis-count](https://github.com/k4m4/lexis-count) - API for this module
