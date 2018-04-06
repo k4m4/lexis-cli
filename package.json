@@ -3,7 +3,7 @@
   "version": "1.0.7",
   "description": "Word counting made easy. Retrieve the number of words in a string or stdin.",
   "license": "MIT",
-  "repository": "k4m4/lexis",
+  "repository": "k4m4/lexis-cli",
   "author": {
     "name": "Nikolaos Kamarinakis",
     "url": "https://nikolaskama.me",
