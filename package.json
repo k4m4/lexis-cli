@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "get-stdin": "^6.0.0",
-    "lexis-count": "^1.0.2",
-    "meow": "^4.0.0"
+    "lexis-count": "^1.0.5",
+    "meow": "^4.0.1"
   }
 }
