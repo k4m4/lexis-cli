@@ -29,12 +29,12 @@
     "cli.js"
   ],
   "devDependencies": {
-    "ava": "^1.2.1",
+    "ava": "^1.4.1",
     "execa": "^0.6.3"
   },
   "dependencies": {
     "get-stdin": "^6.0.0",
-    "lexis-count": "^1.0.5",
+    "lexis-count": "^1.0.7",
     "meow": "^4.0.1"
   }
 }
