@@ -1,6 +1,6 @@
 {
   "name": "lexis-cli",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Word counting made easy. Retrieve the number of words in a string or stdin.",
   "license": "MIT",
   "repository": "k4m4/lexis-cli",
